@@ -1,0 +1,3 @@
+<?php // dev.encrypt.public on Fri, 27 Aug 2021 13:22:58 +0000
+
+return "\xC7\xBDsa\xEA\xE40qDd\x847\xE41\x3B6\x5Bh\xF3\x8A\x5EP\x1A\x24t\xEF\x9E\x27\x22Rip";
